@@ -1,0 +1,9 @@
+C:\Users\RulerChen\VScode\service\service\bin\Debug\service.exe.config
+C:\Users\RulerChen\VScode\service\service\bin\Debug\service.exe
+C:\Users\RulerChen\VScode\service\service\bin\Debug\service.pdb
+C:\Users\RulerChen\VScode\service\service\obj\Debug\service.csproj.AssemblyReference.cache
+C:\Users\RulerChen\VScode\service\service\obj\Debug\service.ProjectInstaller.resources
+C:\Users\RulerChen\VScode\service\service\obj\Debug\service.csproj.GenerateResource.cache
+C:\Users\RulerChen\VScode\service\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+C:\Users\RulerChen\VScode\service\service\obj\Debug\service.exe
+C:\Users\RulerChen\VScode\service\service\obj\Debug\service.pdb

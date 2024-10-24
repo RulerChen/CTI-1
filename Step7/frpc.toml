@@ -1,0 +1,9 @@
+serverAddr = "104.199.254.153"
+serverPort = 7000
+
+[[proxies]]
+name = "web"
+type = "http"
+localIP = "10.140.0.9"
+localPort = 8080
+customDomains = ["104.199.254.153"]
